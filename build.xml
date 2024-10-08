@@ -7,11 +7,11 @@
 <!-- the Compile on Save feature is turned off for the project. -->
 <!-- You can turn off the Compile on Save (or Deploy on Save) setting -->
 <!-- in the project's Project Properties dialog box.-->
-<project name="Cubo de Rubik 2x2" default="default" basedir=".">
-    <description>Builds, tests, and runs the project Cubo de Rubik 2x2.</description>
+<project name="Cubo Rubik 2x2" default="default" basedir=".">
+    <description>Builds, tests, and runs the project Cubo Rubik 2x2.</description>
 
     <!-- Project Information -->
-    <comment>Project Repository: https://github.com/josuerom/cubo-de-rubik-2x2</comment>
+    <comment>Project Repository: https://github.com/josuerom/cubo-rubik-2x2</comment>
     <comment>Author: Josué Romero</comment>
     <comment>Email: josue.romero@uniminuto.edu.co</comment>
     <comment>Description: Este proyecto es una implementación éstandar del problema de Rubik-S3 exigido en clase por el profesor Giovanni Fajardo en el curso Electiva CPC Inteligencia Artificial.</comment>
