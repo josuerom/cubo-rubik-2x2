@@ -1,3 +1,7 @@
+/**
+ *   author:  josuerom
+ *   created: 06/10/24 22:59:50
+**/
 package interfaz;
 
 import gfutria.SearchStateSpaces;

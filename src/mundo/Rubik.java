@@ -120,12 +120,12 @@ public class Rubik extends Logic {
     @Override
     public String state() {
         // System.out.println(
-        //     colorCube(rubik[0][0][1].getSup()) + colorCube(rubik[0][1][1].getSup()) + "\n" +
-        //     colorCube(rubik[0][0][0].getSup()) + colorCube(rubik[0][1][0].getSup()) + "\n" +
+        //     colorCube("   " + rubik[0][0][1].getSup()) + colorCube(rubik[0][1][1].getSup()) + "\n" +
+        //     colorCube("   " + rubik[0][0][0].getSup()) + colorCube(rubik[0][1][0].getSup()) + "\n" +
         //     colorCube(rubik[0][0][1].getIzq()) + colorCube(rubik[0][0][0].getIzq()) + "-" + colorCube(rubik[0][0][0].getFro()) + colorCube(rubik[0][1][0].getFro()) + "-" + colorCube(rubik[0][1][0].getDer()) + colorCube(rubik[0][1][1].getDer()) + "-" + colorCube(rubik[0][1][1].getPos()) + colorCube(rubik[0][0][1].getPos()) + "\n" +
         //     colorCube(rubik[1][0][1].getIzq()) + colorCube(rubik[1][0][0].getIzq()) + "-" + colorCube(rubik[1][0][0].getFro()) + colorCube(rubik[1][1][0].getFro()) + "-" + colorCube(rubik[1][1][0].getDer()) + colorCube(rubik[1][1][1].getDer()) + "-" + colorCube(rubik[1][1][1].getPos()) + colorCube(rubik[1][0][1].getPos()) + "\n" +
-        //     colorCube(rubik[1][0][0].getInf()) + colorCube(rubik[1][1][0].getInf()) + "\n" +
-        //     colorCube(rubik[1][0][1].getInf()) + colorCube(rubik[1][1][1].getInf()) + "\n" +
+        //     colorCube("   " + rubik[1][0][0].getInf()) + colorCube(rubik[1][1][0].getInf()) + "\n" +
+        //     colorCube("   " + rubik[1][0][1].getInf()) + colorCube(rubik[1][1][1].getInf()) + "\n" +
         //     "-----------"
         // );
         return
